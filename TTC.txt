@@ -1,0 +1,8 @@
+It was the best of times, it was the worst of times I forgot a present|5
+gibberish It was the best of times, it was the worst of times,"|1
+It was the best of times, it was the worst of times,asdfg|4
+It was the best of times, it was the worst of times,a|2
+It was the best of times, it was the worst of times,as|8
+It was the best of times, it was the worst of times,asd;woeiks|6
+It was the best of times, it was the worst of times,asdf|3
+
