@@ -16,7 +16,7 @@ def process_file(filename):
                 lines_dict[line_num] = text.strip()
 
                 #longest line
-                if len(text) >= len(longest_line):
+                if len(text) > len(longest_line) or (len(text) == len(longest_line) and line_num > longest_line_num):
                     longest_line = text
                     longest_line_num = line_num
 
